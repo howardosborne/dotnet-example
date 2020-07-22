@@ -1,0 +1,16 @@
+c:\Users\hosborne\Documents\git\dotnet-example\JFSC\JFSC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Users\hosborne\Documents\git\dotnet-example\JFSC\JFSC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Users\hosborne\Documents\git\dotnet-example\JFSC\JFSC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Users\hosborne\Documents\git\dotnet-example\JFSC\JFSC\bin\Debug\JFSC.dll
+c:\Users\hosborne\Documents\git\dotnet-example\JFSC\JFSC\bin\Debug\JFSC.pdb
+c:\Users\hosborne\Documents\git\dotnet-example\JFSC\JFSC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\Users\hosborne\Documents\git\dotnet-example\JFSC\JFSC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\Users\hosborne\Documents\git\dotnet-example\JFSC\JFSC\bin\Debug\WebDriver.dll
+c:\Users\hosborne\Documents\git\dotnet-example\JFSC\JFSC\bin\Debug\WebDriver.Support.dll
+c:\Users\hosborne\Documents\git\dotnet-example\JFSC\JFSC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\Users\hosborne\Documents\git\dotnet-example\JFSC\JFSC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\Users\hosborne\Documents\git\dotnet-example\JFSC\JFSC\bin\Debug\WebDriver.xml
+c:\Users\hosborne\Documents\git\dotnet-example\JFSC\JFSC\bin\Debug\WebDriver.Support.xml
+c:\Users\hosborne\Documents\git\dotnet-example\JFSC\JFSC\obj\Debug\JFSC.csproj.CoreCompileInputs.cache
+c:\Users\hosborne\Documents\git\dotnet-example\JFSC\JFSC\obj\Debug\JFSC.dll
+c:\Users\hosborne\Documents\git\dotnet-example\JFSC\JFSC\obj\Debug\JFSC.pdb
